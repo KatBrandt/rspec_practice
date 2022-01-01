@@ -1,5 +1,5 @@
 class Student
-  # attr_reader :name, :cookies
+  attr_reader :name
   #
   def initialize(name)
     @name = name
